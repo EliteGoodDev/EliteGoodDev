@@ -28,14 +28,6 @@
 
 ---
 
-### 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elitegooddev&custom_title=EliteGoodDev%27s%20GitHub%20Activity%20Graph&bg_color=170d10&color=c9243c&line=c9243c&point=c9243c&area_color=FFFFFF&title_color=FFFFFF&area=true&theme=dracula" alt="GitHub Activity Graph" />
-</p>
-
----
-
 ### 🛠 Tech Stack
 
 #### 🔷 EVM / Ethereum
@@ -71,7 +63,15 @@
 
 ---
 
-### 🤝 Let’s Build
+### 🤝 Let's Build
 
 Looking for someone who can ship **reliable, production-ready Web3 apps**  
 (EVM or Solana)? Feel free to reach out.
+
+---
+
+### 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elitegooddev&custom_title=EliteGoodDev%27s%20GitHub%20Activity%20Graph&bg_color=170d10&color=c9243c&line=c9243c&point=c9243c&area_color=FFFFFF&title_color=FFFFFF&area=true&theme=dracula" alt="GitHub Activity Graph" />
+</p>
