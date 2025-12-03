@@ -20,6 +20,22 @@
 
 ---
 
+### 📊 Top Languages
+
+<p align="center">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=elitegooddev&langs_count=8&layout=compact&theme=codeSTACKr&border_color=7F3FBF&bg_color=0D1117&title_color=f2f2f2&icon_color=F8D866" alt="Top Languages" />
+</p>
+
+---
+
+### 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elitegooddev&custom_title=EliteGoodDev%27s%20GitHub%20Activity%20Graph&bg_color=170d10&color=c9243c&line=c9243c&point=c9243c&area_color=FFFFFF&title_color=FFFFFF&area=true&theme=dracula" alt="GitHub Activity Graph" />
+</p>
+
+---
+
 ### 🛠 Tech Stack
 
 #### 🔷 EVM / Ethereum
